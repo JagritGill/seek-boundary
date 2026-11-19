@@ -1,0 +1,7 @@
+rows=6 key_width=2 cursor_width=1
+cursor_unique=false tied_groups=2
+size=2 pages=2 returned=4 skipped=2 full_key_skipped=0
+  page=1 boundary_record=2 skipped_records=[3] omitted_records=0
+  page=2 boundary_record=5 skipped_records=[6] omitted_records=0
+size=3 pages=2 returned=6 skipped=0 full_key_skipped=0
+gate=FAIL (selected sizes skip rows)
